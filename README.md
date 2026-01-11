@@ -1,6 +1,6 @@
 # Hi 👋 I'm Viritphon Chongpermwattanapol
 
-🎓 Engineering Student at Chulalongkorn University  
+🎓 Computer Engineering Student at Chulalongkorn University (Intania108|CP51) 
 💻 Interested in Software Engineering, Game Development, and Problem Solving  
 🚀 Actively seeking internship opportunities
 
