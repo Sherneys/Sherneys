@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Viritphon Chongpermwattanapol
 
 🎓 Engineering Student at Chulalongkorn University  
 💻 Interested in Software Engineering, Game Development, and Problem Solving  
@@ -36,9 +36,7 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🌐 Portfolio: https://yourwebsite.com
+- 📧 Email: viritphon.1234@email.com  
 
 ---
 
