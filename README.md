@@ -20,9 +20,9 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 ---
 
 ## 📌 Projects
-🔹 **HKT-Lottery**|Computer Engineering Essential  
+🔹 **HKT-Lottery | Computer Engineering Essential**  
   – Short description of what the project does and what you learned  
-🔹 **ColorInRealLife**|Programming Methodology Course Project   
+🔹 **ColorInRealLife | Programming Methodology Course Project**   
   – Tech stack + your role  
 🔹 **[Project Name]** – Link to repo
 
