@@ -15,7 +15,7 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python, JavaScript, HTML/CSS, SQL, Node.js, MATLAB, C++, C, C#, GDScript  
 - **Tools & Platforms:** IntelliJ, PyCharm, AWS, Jupyter Notebooks, Git, Unity, Godot Engine, Firebase, Heroku, MongoDB, PostgreSQL  
-- **Concepts:** Data Structures, Algorithms, OOP, Problem Solving
+- **Related Coursework:** Data Structures & Algorithms, Programming Methodology, Object-Oriented Programming, Statistics & Applications, Database Systems, Operating Systems and System Programs
 
 ---
 
