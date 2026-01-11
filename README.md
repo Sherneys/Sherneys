@@ -24,9 +24,11 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 - A web-based platform for buying lottery numbers, featuring an AI-integrated number prediction system. The website is developed using Node.js, utilizes MongoDB as the database, and is hosted on AWS EC2. [Repo](https://github.com/Sherneys/HKT-Lottery)
   
 🔹 **ColorInRealLife | Programming Methodology Course Project**  
-- A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA. [Repo](https://github.com/Sherneys/ColorInRealLife)  
+- A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA. [Repo](https://github.com/Sherneys/ColorInRealLife)
+  
 🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
-- A 2D fighting game developed using the Unity engine with C#, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. The project advanced to the semi-final round of the National Software Contest (NSC). [Google Drive](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)  
+- A 2D fighting game developed using the Unity engine with C#, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. The project advanced to the semi-final round of the National Software Contest (NSC). [Google Drive](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)
+  
 🔹 **Sparrow-Spring | Self Project**  
 - A narrative-driven game developed using the Godot Engine and GDScript, emphasizing collaborative teamwork across multiple disciplines including Art, Narrative, and Programming. The project was submitted to and competed in the Narrative Driven Game Jam. [Repo](https://github.com/Sherneys/NarrativeDrivenJam14) [Download](https://itch.io/jam/narrative-driven-jam-14/rate/2353308)
 
