@@ -21,11 +21,11 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 
 ## 📌 Projects
 🔹 **HKT-Lottery | Computer Engineering Essential**  
-    – A web-based platform for buying lottery numbers, featuring an AI-integrated number prediction system. The website is developed using Node.js, utilizes MongoDB as the database, and is hosted on AWS EC2.[repo](https://github.com/Sherneys/HKT-Lottery)  
+    – A web-based platform for buying lottery numbers, featuring an AI-integrated number prediction system. The website is developed using Node.js, utilizes MongoDB as the database, and is hosted on AWS EC2. [Repo](https://github.com/Sherneys/HKT-Lottery)  
 🔹 **ColorInRealLife | Programming Methodology Course Project**   
-    – A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA.[repo](https://github.com/Sherneys/ColorInRealLife)  
+    – A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA. [Repo](https://github.com/Sherneys/ColorInRealLife)  
 🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
-    – A 2D fighting game developed using the Unity engine with C#, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. The project advanced to the semi-final round of the National Software Contest (NSC).[google drive](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)  
+    – A 2D fighting game developed using the Unity engine with C#, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. The project advanced to the semi-final round of the National Software Contest (NSC). [Google Drive](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)  
 
 ---
 
