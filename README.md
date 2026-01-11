@@ -20,7 +20,7 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 ---
 
 ## 📌 Projects
-🔹 **HKT-Lottery | Computer Engineering Essential**  
+🔹 **HKT-Lottery | Computer Engineering Essential**
 - A web-based platform for buying lottery numbers, featuring an AI-integrated number prediction system. The website is developed using Node.js, utilizes MongoDB as the database, and is hosted on AWS EC2. [Repo](https://github.com/Sherneys/HKT-Lottery)
   
 🔹 **ColorInRealLife | Programming Methodology Course Project**  
