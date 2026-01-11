@@ -21,7 +21,7 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 
 ## 📌 Projects
 🔹 **HKT-Lottery | Computer Engineering Essential**  
-    – Short description of what the project does and what you learned  
+    – A web-based platform for buying lottery numbers, featuring an AI-integrated number prediction system. The website is developed using Node.js, utilizes MongoDB as the database, and is hosted on AWS EC2.  
 🔹 **ColorInRealLife | Programming Methodology Course Project**   
     – A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA.  
 🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
