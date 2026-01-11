@@ -30,7 +30,8 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 ---
 
 ## 📫 Contact Me
-- 📧 Email: viritphon.1234@email.com  
+- 📧 Email: viritphon.1234@email.com
+- 📞 tel: 098-998-2288
 
 ---
 
