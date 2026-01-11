@@ -25,9 +25,8 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 🔹 **ColorInRealLife | Programming Methodology Course Project**   
     – A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA.  
 🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
-    – Link to repo
-🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
-    – Link to repo
+    – A 2D fighting game developed using the Unity engine with C#, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. The project advanced to the semi-final round of the National Software Contest (NSC).  
+    https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link
 
 ---
 
