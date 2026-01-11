@@ -1,17 +1,45 @@
-## Hi there 👋, I'm Viritphon Chongpermwattanapol
+# Hi 👋 I'm [Your Name]
 
+🎓 Engineering Student at Chulalongkorn University  
+💻 Interested in Software Engineering, Game Development, and Problem Solving  
+🚀 Actively seeking internship opportunities
 
-<!--
-**Sherneys/Sherneys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+I am an engineering student with strong interests in technology and software development.  
+I enjoy building systems, solving problems, and working in collaborative, cross-functional environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Leadership & Project Experience
+**Project Chair / Project Lead**  
+- Led a cross-faculty project with **587 participants**, including staff and audience members.  
+- Managed a **10,000 THB** project budget with support from multiple stakeholders.  
+- Planned project workflow, task distribution, and timelines to ensure efficient execution under budget constraints.  
+- Coordinated teams from diverse academic backgrounds, requiring strong communication and adaptability.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** C / C++ / Java / Python / JavaScript  
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Linux  
+- **Concepts:** Data Structures, Algorithms, OOP, Problem Solving
+
+---
+
+## 📌 Featured Projects
+- 🔹 **[Project Name]** – Short description of what the project does and what you learned  
+- 🔹 **[Project Name]** – Tech stack + your role  
+- 🔹 **[Project Name]** – Link to repo
+
+---
+
+## 📫 Contact Me
+- 📧 Email: yourname@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 🌐 Portfolio: https://yourwebsite.com
+
+---
+
+⭐ Feel free to check out my repositories and connect with me!
