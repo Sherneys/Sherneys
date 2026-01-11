@@ -21,10 +21,13 @@ I enjoy building systems, solving problems, and working in collaborative, cross-
 
 ## 📌 Projects
 🔹 **HKT-Lottery | Computer Engineering Essential**  
-  – Short description of what the project does and what you learned  
+    – Short description of what the project does and what you learned  
 🔹 **ColorInRealLife | Programming Methodology Course Project**   
-  – Tech stack + your role  
-🔹 **[Project Name]** – Link to repo
+    – A turn-based game heavily adapted from No Time to Relax, focusing on Object-Oriented Programming (OOP) principles, with a user interface developed using JavaFX on IntelliJ IDEA.
+🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
+    – Link to repo
+🔹 **The-Siege-Of-Castle-Thorn | Self Project**  
+    – Link to repo
 
 ---
 
