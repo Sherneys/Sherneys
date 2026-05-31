@@ -1,72 +1,79 @@
 # Hi 👋 I'm Viritphon Chongpermwattanapol
 
-🎓 Computer Engineering Student at Chulalongkorn University (Intania108 | CP51)  
-🎮 Passionate about **Computer Graphics** and **Game Development**  
-💻 Interested in Software Engineering, Real-Time Rendering, and Problem Solving  
+🎓 Computer Engineering Student at Chulalongkorn University (Intania108 | CP51)
+🎮 Building **Computer Graphics** & **Games** — renderers, shaders, and gameplay systems
+💻 Real-time rendering · ray/path tracing · game development · graphics programming
 🚀 Actively seeking internship opportunities
 
 ---
 
 ## 🧠 About Me
 
-I'm an engineering student fascinated by how code can bring virtual worlds to life. My passion lies at the intersection of **computer graphics** and **game development** — from shaders and rendering pipelines to gameplay systems and interactive storytelling.
+I'm an engineering student fascinated by how code brings virtual worlds to life. My focus sits at the intersection of **computer graphics** and **game development** — from Monte Carlo light transport and GPU differentiable rendering to gameplay systems and interactive storytelling.
 
-I love exploring how mathematics, physics, and art come together in real-time graphics, and I enjoy building games that are both technically interesting and emotionally engaging. Whether it's tuning game balance, writing shaders, or crafting narrative experiences, I'm always looking for the next challenge.
+I love where mathematics, physics, and art meet in real-time graphics: writing renderers from scratch, tuning sampling strategies, and shipping games that are both technically interesting and fun to play.
 
 ---
 
-## 🎮 What I'm Exploring
+## 🖼️ Computer Graphics Projects
 
-- 🖼️ **Computer Graphics:** Real-time rendering, shaders (HLSL/GLSL), lighting, and rendering pipelines
-- 🕹️ **Game Engines:** Unity, Godot, and curious about Unreal Engine
-- ✨ **Graphics Programming:** OpenGL, learning about ray tracing and modern rendering techniques
-- 🎨 **Game Design:** Mechanics design, game feel, balance tuning, and narrative integration
-- 🧮 **Math for Graphics:** Linear algebra, transformations, and procedural generation
+🔹 **[blue-noise-raytracer](https://github.com/Sherneys/blue-noise-raytracer)** · *C++*
+A ray tracer based on *Ray Tracing in One Weekend*, extended to compare **blue-noise vs white-noise** sub-pixel sampling for anti-aliasing. Renders the same scene with both strategies across 4–256 SPP and measures how fast each converges to a ground-truth reference.
+
+🔹 **[Stochastic-Differentiable-Triangle-Soup](https://github.com/Sherneys/Stochastic-Differentiable-Triangle-Soup)** · *CUDA*
+A **differentiable** triangle renderer using stochastic opacity masking — soften edges with `α = sigmoid(d/σ)`, make a Bernoulli decision, and push gradients back to update vertex positions on the GPU (race-free via `atomicAdd`). Challenge from **Umetani Lab**, based on *DiffSoup* (Tojo, Bickel, Umetani — CVPR 2026).
+
+🔹 **[pathtracer_milestone](https://github.com/Sherneys/pathtracer_milestone)** · *C++17*
+A CPU **path tracer** implementing Monte Carlo light transport with Russian-roulette termination, producing numerically reproducible radiance across prescribed test scenes. Built for a graphics course at Chulalongkorn University.
+
+---
+
+## 🎮 Game Development Projects
+
+🔹 **[EcoCore](https://github.com/Sherneys/EcoCore)** · *Unity 6 (URP) · C#*
+A turn-based isometric hex-grid factory-management sim about reaching **Net Zero** before the city collapses — balancing Profit, Carbon Rate, and Bio-Index across 100 turns, with a *greenwashing* mechanic as the headline twist. Built with a pure-C# simulator (NUnit-tested) for **WebGL + PC**. Project for **NSC 2026**.
+
+🔹 **[The-Siege-Of-Castle-Thorn](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)** · *Unity · C#*
+A 2D fighting game featuring systematic **game-balance tuning** through parameter adjustment, playtesting, and iterative refinement. Advanced to the **semi-final round of the National Software Contest (NSC)**.
+
+🔹 **[Sparrow-Spring](https://github.com/Sherneys/NarrativeDrivenJam14)** · *Godot · GDScript*
+A narrative-driven game developed collaboratively across Art, Narrative, and Programming. Submitted to **Narrative Driven Game Jam 14** — [play on itch.io](https://itch.io/jam/narrative-driven-jam-14/rate/2353308).
+
+🔹 **[ColorInRealLife](https://github.com/Sherneys/ColorInRealLife)** · *Java · JavaFX*
+A turn-based game adapted from *No Time to Relax*, built to apply Object-Oriented Programming principles with a JavaFX UI.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C++, C#, C, GDScript, Python, Java, JavaScript, HTML/CSS, SQL, Node.js, MATLAB
-- **Game Engines:** Unity, Godot Engine
-- **Tools & Platforms:** IntelliJ, PyCharm, Visual Studio, Git, AWS, Jupyter Notebooks, Firebase, Heroku, MongoDB, PostgreSQL
-- **Related Coursework:** Data Structures & Algorithms, Programming Methodology, Object-Oriented Programming, Statistics & Applications, Database Systems, Operating Systems and System Programs
-
----
-
-## 📌 Projects
-
-🔹 **The-Siege-Of-Castle-Thorn** | *Self Project — Game Development*
-- A 2D fighting game built in **Unity (C#)**, featuring systematic game balance tuning through parameter adjustment, playtesting, and iterative refinement. Advanced to the **semi-final round of the National Software Contest (NSC)**. 
-- [Google Drive](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)
-
-🔹 **Sparrow-Spring** | *Self Project — Narrative Game*
-- A narrative-driven game built with the **Godot Engine** and **GDScript**, developed collaboratively across Art, Narrative, and Programming disciplines. Submitted to the **Narrative Driven Game Jam 14**. 
-- [Repo](https://github.com/Sherneys/NarrativeDrivenJam14) · [Play on itch.io](https://itch.io/jam/narrative-driven-jam-14/rate/2353308)
-
-🔹 **ColorInRealLife** | *Programming Methodology Course Project*
-- A turn-based game heavily adapted from *No Time to Relax*, focusing on Object-Oriented Programming principles, with a UI built in **JavaFX**. 
-- [Repo](https://github.com/Sherneys/ColorInRealLife)
-
-🔹 **HKT-Lottery** | *Computer Engineering Essential*
-- A web-based platform for buying lottery numbers with an AI-integrated number prediction system. Built with **Node.js**, **MongoDB**, and hosted on **AWS EC2**. 
-- [Repo](https://github.com/Sherneys/HKT-Lottery)
+- **Graphics & Games:** Ray/Path Tracing, Real-Time Rendering, Shaders (HLSL/GLSL), OpenGL, CUDA, Monte Carlo Methods, Game Balance & Design
+- **Engines:** Unity (URP), Godot Engine
+- **Languages:** C++, C#, CUDA, C, GDScript, Python, Java, JavaScript, HTML/CSS, SQL, MATLAB
+- **Math for Graphics:** Linear algebra, transformations, sampling theory, procedural generation
+- **Tools & Platforms:** Visual Studio, IntelliJ, PyCharm, Git, AWS, Firebase, MongoDB, PostgreSQL, Jupyter
+- **Coursework:** Data Structures & Algorithms, Programming Methodology, OOP, Operating Systems & System Programming, Database Systems, Statistics & Applications
 
 ---
 
 ## 🎯 Currently Working On
 
-- Diving deeper into graphics programming and shader development
-- Exploring procedural generation and game AI
-- Building more polished game projects to grow my portfolio
+- Going deeper into physically based rendering and shader development
+- Exploring differentiable rendering and GPU programming with CUDA
+- Polishing game projects to grow my portfolio
+
+---
+
+## 🌱 Other Projects
+
+Beyond graphics and games, I also build full-stack and systems projects — e.g. **[HKT-Lottery](https://github.com/Sherneys/HKT-Lottery)** (Node.js + MongoDB on AWS EC2) and hardware/Verilog coursework.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: viritphon.1234@email.com
+- 📧 Email: viritphon.1234@gmail.com
 - 📞 Tel: 098-998-2288
 
 ---
 
-⭐ Feel free to check out my repositories and connect with me — especially if you're into graphics or games!
+⭐ Feel free to explore my repositories and connect — especially if you're into graphics or games!
