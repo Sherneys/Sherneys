@@ -30,12 +30,6 @@ A CPU **path tracer** implementing Monte Carlo light transport with Russian-roul
 
 ## 🎮 Game Development Projects
 
-🔹 **[EcoCore](https://github.com/Sherneys/EcoCore)** · *Unity 6 (URP) · C#*
-A turn-based isometric hex-grid factory-management sim about reaching **Net Zero** before the city collapses — balancing Profit, Carbon Rate, and Bio-Index across 100 turns, with a *greenwashing* mechanic as the headline twist. Built with a pure-C# simulator (NUnit-tested) for **WebGL + PC**. Project for **NSC 2026**.
-
-🔹 **[The-Siege-Of-Castle-Thorn](https://drive.google.com/drive/folders/1xhemSb_jNE9D17O0WWzS0NuQrwZ8x7Lj?usp=drive_link)** · *Unity · C#*
-A 2D fighting game featuring systematic **game-balance tuning** through parameter adjustment, playtesting, and iterative refinement. Advanced to the **semi-final round of the National Software Contest (NSC)**.
-
 🔹 **[Sparrow-Spring](https://github.com/Sherneys/NarrativeDrivenJam14)** · *Godot · GDScript*
 A narrative-driven game developed collaboratively across Art, Narrative, and Programming. Submitted to **Narrative Driven Game Jam 14** — [play on itch.io](https://itch.io/jam/narrative-driven-jam-14/rate/2353308).
 
