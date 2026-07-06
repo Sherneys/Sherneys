@@ -1,7 +1,7 @@
 # Hi 👋 I'm Viritphon Chongpermwattanapol
 
 🎓 Computer Engineering Student at Chulalongkorn University (Intania108 | CP51)
-🔬 Undergraduate researcher in **differentiable rendering** — topology-aware triangle-soup reconstruction
+🔬 Undergraduate researcher in **differentiable rendering** — topology-aware triangle-soup reconstruction (paper draft in progress)
 🎮 Building **Computer Graphics** & **Games** — renderers, shaders, and gameplay systems
 💻 Differentiable rendering · ray/path tracing · real-time rendering · game development
 🚀 Actively seeking research internship opportunities
@@ -12,14 +12,14 @@
 
 I'm an engineering student fascinated by how code brings virtual worlds to life. My focus sits at the intersection of **computer graphics** and **game development** — from Monte Carlo light transport and GPU differentiable rendering to gameplay systems and interactive storytelling.
 
-I love where mathematics, physics, and art meet in real-time graphics: writing renderers from scratch, tuning sampling strategies, and shipping games that are both technically interesting and fun to play. Lately my research asks a simple question with a surprising answer: *do the metrics we trust in 3D reconstruction actually see topology?* (Spoiler: no.)
+I love where mathematics, physics, and art meet in real-time graphics: writing renderers from scratch, tuning sampling strategies, and shipping games that are both technically interesting and fun to play. Lately my research asks two questions with surprising answers: *do the metrics we trust in 3D reconstruction actually see topology?* (No.) *And can a resampling prior fix what they miss?* (Yes, for enclosed voids — if you **spread** it rather than concentrate it.)
 
 ---
 
 ## 🔬 Research
 
 🔹 **[CG-Soup-Topology](https://github.com/Sherneys/CG-Soup-Topology)** · *Python*
-Ongoing undergraduate research on **topology-aware adaptive resampling** for differentiable triangle-soup reconstruction. Phase 1 builds a persistent-homology measurement pipeline (GUDHI alpha complexes, H0–H2 persistence diagrams, bottleneck/Wasserstein stability metrics) and shows that **standard geometric metrics are topologically blind**: on controlled cases tuned to *equal Chamfer distance*, persistence-diagram distance separates correct from topologically-wrong reconstructions by **~30–40×** — and Hausdorff95 even prefers the wrong candidate in 2 of 3 cases.
+Undergraduate research on **topology-aware resampling** for differentiable triangle-soup reconstruction — now a full thread (Phases 1–2b) with a paper draft: *"Concentrate or Spread? Shaping Topological Resampling Priors for Differentiable Triangle-Soup Reconstruction."* Four results: **(1)** standard geometric metrics are **topologically blind** — at equal Chamfer distance, persistence-diagram distance separates correct from topologically-wrong reconstructions by ~30–40×, and Hausdorff95 even prefers the wrong candidate in 2 of 3 cases; **(2)** an init-only topological bias is erased by the first resampling step — guidance must be **in-loop**; **(3)** a persistence-guided in-loop resampling prior gives a genuine topology-specific win for enclosed voids, but backfires on loops at tight budgets; **(4)** **spreading** the prior beats concentrating it — cutting bottleneck-to-target **33–53% below baseline** for voids at Chamfer parity — though a width-matched non-topological control recovers most of the gain, leaving only a small topological residual. Reporting that caveat honestly is the paper's thesis.
 
 🔹 **[cg-soup-curvature-init-study](https://github.com/Sherneys/cg-soup-curvature-init-study)** · *Python*
 A reproducible **negative-result study**: against analytic ground truth, curvature-guided initialization does **not** improve DiffSoup reconstruction over random initialization — the apparent benefit against screened-Poisson references was largely an artifact of fitting reconstruction noise. Reporting what *doesn't* work is part of doing research honestly.
@@ -65,7 +65,7 @@ A turn-based game adapted from *No Time to Relax*, built to apply Object-Oriente
 
 ## 🎯 Currently Working On
 
-- **Phase 2** of my topology research — building the topology-aware resampler on top of the Phase-1 measurement pipeline
+- Polishing the **paper draft** from my topology research (*Concentrate or Spread?*) — Phases 1–2b complete, B0–B5 condition sweeps done
 - 3D facial reconstruction for **digital dentistry** (14-week internship, through Sep 2026)
 - Going deeper into physically based rendering and GPU programming
 
